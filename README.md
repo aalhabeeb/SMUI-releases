@@ -1,5 +1,8 @@
 # SMUI — Releases
 
+[![Nieuwste release](https://img.shields.io/github/v/release/aalhabeeb/SMUI-releases?label=nieuwste%20versie&color=2ea043&sort=semver)](https://github.com/aalhabeeb/SMUI-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/aalhabeeb/SMUI-releases/total?label=downloads&color=1f6feb)](https://github.com/aalhabeeb/SMUI-releases/releases)
+
 Publieke **`.deb`** en **`.rpm`** packages voor **SMUI** (Storage Management UI):
 een nmtui-achtige TUI voor opslagbeheer (partities, LVM PV/VG/LV, filesystems
 formatteren en mounten) op **RHEL/Rocky/Alma** en **Ubuntu/Debian**.
